@@ -1,7 +1,7 @@
 # Text to handwriting
 
 
-Model https://github.com/pnshiralkar/text-to-handwriting updated (tendorflow 2) and modified.
+Model https://github.com/pnshiralkar/text-to-handwriting with updates (tendorflow 2) and modifications.
 
 Implementation of handwriting generation using recurrent neural networks in tensorflow 2. 
 Based on Alex Graves paper (https://arxiv.org/abs/1308.0850). 
